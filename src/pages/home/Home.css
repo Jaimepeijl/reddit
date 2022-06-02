@@ -1,0 +1,34 @@
+main{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.hottest-posts{
+    padding-bottom: 100px;
+}
+
+.post-container{
+    background-color: pink;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    text-align: center;
+
+
+}
+.posts{
+    background-color: blue;
+
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px;
+
+}
